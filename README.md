@@ -13,5 +13,5 @@ _ 개발 기간 11주 (2018.10 ~ 2018.11)<br>
 <br><br><br>
 # Google Map API 사용
 <div>
-  <img wdith='450' src='https://user-images.githubusercontent.com/38337323/65886991-46191200-e3d8-11e9-91d8-16b3965c6294.png'>
+  <img width='450' src='https://user-images.githubusercontent.com/38337323/65886991-46191200-e3d8-11e9-91d8-16b3965c6294.png'>
 </div>
