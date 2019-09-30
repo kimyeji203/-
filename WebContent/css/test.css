@@ -1,0 +1,102 @@
+@charset "EUC-KR";
+
+
+body{
+	margin:0;padding:0;
+	font-family:'Do Hyeon',eans-serif;
+	letter-spacing:3px;
+	text-align:center;
+	/*
+	background-color:#29242a;*/
+}
+a{text-decoration:none;color:#000;}
+a:hover{color:#e69600}
+
+#menu{
+	border-top:0.5px solid;
+	border-bottom:0.5px solid;
+}
+#menu ul{
+	/*padding-top:5px; padding-bottom:5px;
+*/
+}
+#menu ul li{
+	display:inline;
+	/*border-left:0.5px solid;*/
+	padding-left:5%;
+	padding-right:5%;
+}
+#menu ul li:last-child{padding-right:13%;}
+
+
+
+#total_wrapper{
+	width:1024px;
+	height:100%;
+	margin:0 auto;
+	padding:0;
+	background-color:white;
+}
+
+#content, #content_update_box{
+	height:100%;
+	width:100%;
+	margin:80px 0 50px 0;
+}
+#content_update_box{display:none;}
+h3{padding:0;margin:0;}
+
+table{
+	margin:0 auto;	
+	margin-top:30px;
+	margin-bottom:20px;
+	width:70%;
+	padding:0 5px 0 5px;
+	text-align:left;
+}
+
+table td{
+	margin:0;
+	padding:5px;
+}
+.title{
+	background-color:gray;
+	color:white;
+	text-align:center;
+}
+#td_opini{
+	height:100px;
+}
+.td_line{
+	height:1px;
+	margin:0;
+	padding:0;
+	background-color:gray;
+}
+.textbox{
+	width:100%;
+	font-family:'Do Hyeon',eans-serif;
+}
+textarea{
+	font-family:'Do Hyeon',eans-serif;
+}
+.up_title{
+	background-color:#b3b3d9;
+	color:white;
+}
+.button{
+	font-family:'Do Hyeon',eans-serif;
+	color:white;
+	width:100px;
+	height:40px;
+	background-color:black;
+	cursor:pointer;
+	border:0;
+	border-radius:10px;
+	outline:0;
+}
+.button:hover{
+	color:#774b9e;
+	background-color:white;
+	border:1px solid #774b9e;
+}

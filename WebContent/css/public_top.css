@@ -1,0 +1,29 @@
+@charset "EUC-KR";
+
+body{
+	font-family:'Do Hyeon',eans-serif;
+	letter-spacing:5px;
+	text-align:center;
+	/*
+	background-color:#29242a;*/
+}
+a{text-decoration:none;color:#000;}
+a:hover{color:#e69600;transition:800ms ease all;}
+
+#menu{
+	border-top:0.5px solid;
+	border-bottom:0.5px solid;
+}
+#menu ul{
+	/*padding-top:5px; padding-bottom:5px;
+*/
+}
+#menu ul li{
+	display:inline;
+	/*border-left:0.5px solid;*/
+	padding-left:5%;
+	padding-right:5%;
+}
+#menu ul li:last-child{padding-right:13%;}
+
+h1{	margin:50px;}

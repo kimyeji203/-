@@ -1,0 +1,51 @@
+@charset "EUC-KR";
+
+body{
+	margin:0;padding:0;
+	font-family:'Do Hyeon',eans-serif;
+	letter-spacing:3px;
+	text-align:center;
+	/*
+	background-color:#29242a;*/
+}
+
+h3{margin:0;padding:0;}
+
+#content_box{
+	margin:60px 30px 0 30px;
+	background-color:rgba(225,225,240,1);
+	width:500px;
+	border-radius:20px;
+	box-shadow:-60px 0px 100px -90px #000000, 60px 0px 100px -90px #000;
+	border:3px outset #af92cb;
+}
+#content_box h3{padding-top:30px;padding-top:30px;text-align:center;}
+#content_table{
+	display: inline-block;
+	margin:10px;
+	padding-left:5px;
+	text-align:left;
+	width:400px;
+	height:300px;
+}
+#button_td{text-align:right;}
+.text{width:100%;}
+textarea{}
+
+.button{
+	font-family:'Do Hyeon',eans-serif;
+	color:white;
+	width:100px;
+	height:40px;
+	background-color:black;
+	cursor:pointer;
+	border:0;
+	border-radius:10px;
+	outline:0;
+	right:0;
+}
+.button:hover{
+	color:#774b9e;
+	background-color:white;
+	border:1px solid #774b9e;
+}

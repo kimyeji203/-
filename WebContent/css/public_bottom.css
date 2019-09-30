@@ -1,0 +1,22 @@
+@charset "EUC-KR";
+
+#bottom{
+	bottom:0;
+	width:100%;
+	height:50px;
+	
+	margin:0;
+	margin-top:20px;
+	padding-top:5px;
+	padding-bottom:10px;
+	text-align:center;
+	font-family:'Do Hyeon',eans-serif;
+	color:white;
+	
+	background-color:#29242a;
+
+
+	
+	font-size:9px;
+	letter-spacing:3px;
+}

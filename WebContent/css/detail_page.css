@@ -1,0 +1,95 @@
+@charset "EUC-KR";
+
+body{
+   margin:0;padding:0;
+   font-family:'Do Hyeon',eans-serif;
+   letter-spacing:3px;
+   text-align:center;
+   /*
+   background-color:#29242a;*/
+}
+
+h3{
+   text-align:left;
+   margin:0;
+   margin-left:10px;
+   padding:0;
+   cursor:pointer;
+}
+
+#total_wrapper{
+   width:1024px;
+   height:100%;
+   margin:0 auto;
+   padding:0;
+   background-color:white;
+}
+
+#community_box{
+   margin-top:5px;
+   text-align:right;
+}
+
+#title_content{
+   margin-top:20px;
+}
+
+h1{   margin:50px;}
+
+p{margin-bottom:50px;}
+.contant{
+   text-align:left;
+   margin-bottom:40px;
+   
+}
+#definition, #explain, #detail, #references{
+   margin-top:40px;   
+}
+.definition, .explain, .detail, .references{
+   text-align:left;
+   background-color:rgba(225,225,240,0.6);
+   margin-bottom:40px;
+   padding:20px;
+   border-radius: 10px;
+}
+#title_img{
+   border-radius:130px;
+}
+table{
+   width:100%;
+   text-align:left;
+   margin:50px 0 50px 0;
+}
+#imgtd{
+   width:261px;
+}
+
+.drop_img{
+   width:25px;
+   height:15px;
+   margin:0;
+   padding:0;
+}
+
+
+
+/*ÆË¾÷ ·¹ÀÌ¾î css*/
+
+.button{
+	font-family:'Do Hyeon',eans-serif;
+	color:white;
+	width:100px;
+	height:40px;
+	background-color:black;
+	cursor:pointer;
+	border:0;
+	border-radius:10px;
+	outline:0;
+	
+	right:0;
+}
+.button:hover{
+	color:#774b9e;
+	background-color:white;
+	border:1px solid #774b9e;
+}
