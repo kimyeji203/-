@@ -1,6 +1,9 @@
 # History_PerfectConquest
 다양한 분야별 유적지, 능비 자료 제공 사이트<br><br>
-_ JSP, JavaScript, SMTP 사용<br><br>
+
+_ Eclipse, SMTP, API Key<br>
+_ HTML, CSS, JSP, JAVA, JavaScript<br>
+_ MySQL, Apache Tomcat<br><br>
 
 _ 1인 개발<br>
 _ 개발 기간 11주 (2018.10 ~ 2018.11)<br>
